@@ -6,7 +6,7 @@ Samantha Kostelni and Amy Xie
 https://swmnsn.github.io/Hackathon-Project/
 
 # Description
-An interactive Python script using the Turtle library
+A website containing an interactive Python script using the Turtle library
 
 # Objective
 To provide young children (especially girls!) a simple/approachable introduction to coding
