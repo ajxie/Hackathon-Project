@@ -12,4 +12,4 @@ An interactive Python script using the Turtle library
 To provide young children a simple introduction to coding
 
 # Sources
-skulpt.org (for python visualization)
+skulpt.org (skulpt provided the ability to run Python on the client side)
